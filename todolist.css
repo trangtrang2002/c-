@@ -1,0 +1,21 @@
+.box{
+    width: 900px;
+    height: 200px;
+    background-color: red;
+    text-align: center;
+}
+h1{
+    margin-top:50px;
+    color: white;
+}
+.txtbox{
+    width: 500px;
+    height: 50px;
+   display:inline;
+ 
+   
+}
+.add{
+    width: 150px;
+    height: 50px;
+}
